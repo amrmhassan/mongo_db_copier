@@ -1,4 +1,4 @@
 class Constants {
   final String sourceLink = '';
-  final String targetLink = '';
+  final String targetLink = 'this is a test link';
 }
